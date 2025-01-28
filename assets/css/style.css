@@ -61,8 +61,8 @@ html {
   background-color: #ffffff;
 }
 body {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.77), rgba(0, 0, 0, 0.8)),
-    url(/assets/img/648a6bb39e2d83664cf29c45_Bg\\(1\).png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.536), rgba(0, 0, 0, 0.482)),
+    url(/assets/img/bg.jpg);
   background-attachment: fixed;
   background-size: contain;
   background-repeat: no-repeat;
